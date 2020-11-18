@@ -1,1 +1,1 @@
-# HCI_Magnify
+# HCI Project - MAGNIFY
